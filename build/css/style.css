@@ -237,6 +237,7 @@ body {
 .backgrounder-main-menu {
     background-position: 50% 0% !important;
     background: url('../../uploads/tzod_images/backgrounds/index.jpg') no-repeat center center fixed;
+    background-size: cover;
     height: 100%;
     margin-top: -120px;
     padding-top: 120px;
